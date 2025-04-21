@@ -10,16 +10,16 @@ Route::get('/about', function () {
     return view('about');
 });
 
-Route::get('/faq', function () {
-    return view('faq');
-});
+// Route::get('/faq', function () {
+//     return view('faq');
+// });
 
-Route::get('/index2', function () {
-    return view('index-2');
-});
-Route::get('/index3', function () {
-    return view('index-3');
-});
+// Route::get('/index2', function () {
+//     return view('index-2');
+// });
+// Route::get('/index3', function () {
+//     return view('index-3');
+// });
 
 Route::get('/services', function () {
     return view('services');
@@ -47,9 +47,9 @@ Route::get('/ser-insu-def', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
-Route::get('/cases', function () {
-    return view('cases');
-});
-Route::get('/cases-details', function () {
-    return view('cases-details');
-});
+// Route::get('/cases', function () {
+//     return view('cases');
+// });
+// Route::get('/cases-details', function () {
+//     return view('cases-details');
+// });

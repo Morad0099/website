@@ -231,7 +231,7 @@
                             </div>
                             <div class="page-title-menu">
                                 <ul>
-                                    <li><a href="index-2.html">Home</a></li>
+                                    <li><a href="/">Home</a></li>
                                     <li><i class="fa fa-angle-right"></i></li>
                                     <li>Services</li>
                                 </ul>

@@ -231,9 +231,9 @@
                             </div>
                             <div class="page-title-menu">
                                 <ul>
-                                    <li><a href="index-2.html">Home</a></li>
+                                    <li><a href="/">Home</a></li>
                                     <li><i class="fa fa-angle-right"></i></li>
-                                    <li><a href="Services-2.html">Services</a></li>
+                                    <li><a href="/services">Services</a></li>
                                     <li><i class="fa fa-angle-right"></i></li>
                                     <li>Criminal Law</li>
                                 </ul>

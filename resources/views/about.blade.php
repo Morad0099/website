@@ -127,7 +127,7 @@
                                                         </li>
                                                     </ul> --}}
                                                 </li>
-                                                <li class="dropdown">
+                                                <li class="">
                                                     <a href="/about">About us</a>
                                                     {{-- <ul>
                                                         <li><a href="/about">About Our Company</a></li>
@@ -231,7 +231,7 @@
                             </div>
                             <div class="page-title-menu">
                                 <ul>
-                                    <li><a href="index-2.html">Home</a></li>
+                                    <li><a href="/">Home</a></li>
                                     <li><i class="fa fa-angle-right"></i></li>
                                     <li>About Us</li>
                                 </ul>

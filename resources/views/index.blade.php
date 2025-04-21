@@ -507,7 +507,7 @@
                             </div>
                             <div class="text-holder">
                                 <div class="title">
-                                    <h5><a href="/ser-indus-law">Employment Law</a></h5>
+                                    <h5><a href="/ser-employement-law">Employment Law</a></h5>
                                 </div>
                                 <div class="content">
                                     <p>Advocating for employees and employers in workplace-related legal matters.</p>
@@ -541,7 +541,7 @@
                             </div>
                             <div class="text-holder">
                                 <div class="title">
-                                    <h5><a href="/ser-litigation">Litigation & Dispute Resolution</a></h5>
+                                    <h5><a href="/ser-indus-law">Litigation & Dispute Resolution</a></h5>
                                 </div>
                                 <div class="content">
                                     <p>Resolving disputes efficiently through negotiation, mediation, or litigation.</p>
